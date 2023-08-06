@@ -1,2 +1,4 @@
 # Starbucks-Layout
-Starbuck's layout with Bootstrap
+Starbuck's Layout'U Bootstrap ile yaptık.
+
+![Starbucks-Layout](./img/Starbucks-Layout.jpg)
